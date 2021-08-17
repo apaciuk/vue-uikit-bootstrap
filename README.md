@@ -1,5 +1,9 @@
 ## vue-uikit-bootstrap
 
-Vue 2.6 uikit with Bootsstrap/Bootsrap Vue quick test.
+Vue 2.6 uikit with Bootstrap/Bootstrap Vue quick test.
 
 Demo at:  https://decorous-trains.surge.sh/
+
+## Todo
+
+Port in to Nuxt
